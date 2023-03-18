@@ -1,0 +1,22 @@
+.searchbar{
+    background-color: rgb(226, 17, 17);
+    padding: 1em;
+    display: flex;
+    justify-content: end;
+    border: solid 4px black;
+    width: fit-content;
+}
+
+.searinput{
+    height: 35px;
+    border: solid 1px;
+    border-radius: 12px 0px 0px 12px;
+    
+}
+
+.buttoninput{
+    margin-left: 0.1em;
+    border: solid 1px;
+    border-radius: 0px 12px 12px 0px;
+    background-color: antiquewhite;
+}
